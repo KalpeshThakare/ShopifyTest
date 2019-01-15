@@ -27,6 +27,9 @@ https://shopicruit.myshopify.com/admin/products.json?ids=2759137027,2759143811&p
 ### REQUIREMENTS
 iOS 10.0+ / macOS 10.12+ / tvOS 10.0+ / watchOS 3.0+ / Swift 4.0+
 
+1. Install Pods from pod file 
+2. Open ShopifyTest.xcworkspace Project
+
 ### LIBRARIES USED
 1. 1. Almofire : Fetch Data from web Api
 2. 2. Kf Kingfisher : Fetch Image from url
